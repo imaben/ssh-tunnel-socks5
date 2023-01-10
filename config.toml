@@ -1,0 +1,7 @@
+[remote]
+addr="yourhost:22"
+user="root"
+passwd="root"
+
+[local]
+listen="127.0.0.1:1080"
